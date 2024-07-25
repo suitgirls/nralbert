@@ -1,9 +1,10 @@
 body {color :darkslategray;
-background-color:blanchedalmond; 
+background-color:darksalmon; 
+font-family:'Times New Roman', Times, serif
 }
 
-h1{ color:white; background-color: blanchedalmond}
-h2 { color: blanchedalmond}
-h2{ color: blanchedalmond}
-a {color: blanchedalmond}
+h1{ color:white; background-color: darksalmon}
+h2 { color: darksalmon}
+h2{ color: darksalmon}
+a {color: darksalmon}
 
