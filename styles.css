@@ -3,8 +3,8 @@ background-color:darksalmon;
 font-family:'Times New Roman', Times, serif
 }
 
-h1{ color:white; background-color: darksalmon}
-h2 { color: darksalmon}
-h2{ color: darksalmon}
-a {color: darksalmon}
+h1{ color:white; background-color: darksalmon; font-family:'space Mono', 'monospace' }
+h2 { color: darksalmon; font-family:'space Mono', 'monospace'}
+h2{ color: darksalmon; font-family:'space Mono', 'monospace'}
+a {color: darksalmon; font-family:'space Mono', 'monospace'}
 
